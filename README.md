@@ -9,6 +9,7 @@ You must find the answers through the development Map Reduce algorithms for the 
 	- []	List the % of change in male employment from the year 2000. 
 	- [ ]	List the % of change in female employment from the year 2000.
 	- [ ]	Additionally, based on your data exploration and analysis, evaluate one business factor that you consider important, and make this your own requirement.
+	- [ ] 	List the 
 ### For each business question, there is the following architectural requirements:
 	- [ ]	There should be an MR Unit test for each Map, each Reduce and each Map-Reduce combination.
 	- [ ]	Data sets must be stored and processed within HDFS and a Hadoop Cluster.
@@ -35,8 +36,11 @@ You must find the answers through the development Map Reduce algorithms for the 
 ### Challenges Faced
 - Deciding on what type of data to use
 - Whether or not to clean the null values, to prevent inaccurate results
+- How to order/sort the years in #3 so that the calculations on those year's values are accurate.
 ### What I Learned
 - Assigning a variable to the last value of an enhanced for loop without transforming the `Iterable` into an array list.
+- My first time reading and filtering data from a .csv in an application
+- 
 ```
  for(DoubleWritable value : values){
             if(index == 0) {
@@ -52,5 +56,16 @@ You must find the answers through the development Map Reduce algorithms for the 
             index += 1;
         }
 ```
-#### Process
+### Process
 - I learned that it is really important to look at the data and figure out which variables you want to extract before coding your mapper
+### Project Presentation
+What strategy did I use? 
+1. Business Question
+2. My Assumptions (my interpretation of the question)
+3. What field did you use?
+3. My Findings & meaning of numbers
+### TODO
+[ ] Finalize #3 strategy (1 mapper vs. Secondary Sorting on Reducer)
+[ ] Use 1 driver with extra argument to run multiple
+[ ] Finalize #5 Requirement question
+[ ] Set `numReducerTasks(0)` for Mapper Only classes
