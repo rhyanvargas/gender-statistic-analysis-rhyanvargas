@@ -58,13 +58,18 @@ public class PercentChangeMaleEmploymentMapper extends Mapper<LongWritable, Text
                 "United States", "United States Minor Outlying Islands", "Uruguay", "Uzbekistan", "Vanuatu",
                 "Venezuela", "Vietnam", "Virgin Islands (British)", "Virgin Islands (U.S.)",
                 "Wallis and Futuna Islands", "Western Sahara", "Yemen", "Yugoslavia", "Zambia", "Zimbabwe"));
+
+        line =  line
+                .trim();
         
         /**
          * Fetch Male Employment From all countries
          */
         if (line.matches("(.*)SL.EMP.WORK.MA.ZS(.*)")) {
             for (String word : line.split(",")) {
-                word = word.replace("\"", "");
+                word =  word
+                        .replace("\"", "")
+                        .trim();
                 if (index == 0) {
                     /**
                      * If the word is a country, set flag to true...
@@ -84,6 +89,5 @@ public class PercentChangeMaleEmploymentMapper extends Mapper<LongWritable, Text
                 index += 1;
             }
         }
-    }
-    
+    }  
 }

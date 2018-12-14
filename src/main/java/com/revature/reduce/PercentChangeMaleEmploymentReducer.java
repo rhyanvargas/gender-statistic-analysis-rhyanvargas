@@ -23,25 +23,27 @@ public class PercentChangeMaleEmploymentReducer extends Reducer<Text, DoubleWrit
             } else {
                 lastYearPercentage = value.get(); 
                 percentChangeTotal = lastYearPercentage - firstYearPercentage;
-
+                percentChangeTotal = FormatDecimal.formatDecimal(percentChangeTotal);
                 percentChangeString = String.valueOf(percentChangeTotal);
                 if(index == 1) {
                       arrOfPercentDeltas
                         .append("--> Year 2000-2001: " +percentChangeString+ " || ");
                 } else if(index < 9 ) {
                     arrOfPercentDeltas
-                        .append("Year 200" +index+ "-200" +(index + 1)+ ": " +percentChangeString+ " || ");
+                        .append("200" +index+ "-200" +(index + 1)+ ": " +percentChangeString+ " || ");
                 } else if (index == 9 ) {
                     arrOfPercentDeltas
-                            .append("Year 2009-20" +(index + 1)+ ": " + percentChangeString + " || ");
+                            .append("2009-20" +(index + 1)+ ": " + percentChangeString + " || ");
                 } else {
                     arrOfPercentDeltas
-                            .append("Year 20" +index+ "-20" +(index + 1)+ ": " + percentChangeString + " || ");
+                            .append("20" +index+ "-20" +(index + 1)+ ": " + percentChangeString + " || ");
                 }
             }
             index += 1;
         }
-        percentChangeTotal = FormatDecimal.formatDecimal(percentChangeTotal);
-        context.write(key, new Text(arrOfPercentDeltas.toString()));
+        if(arrOfPercentDeltas.length() > 1) {
+            percentChangeTotal = FormatDecimal.formatDecimal(percentChangeTotal);
+            context.write(key, new Text(arrOfPercentDeltas.toString()));
+        }
     }
 }
