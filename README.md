@@ -64,8 +64,12 @@ What strategy did I use?
 2. My Assumptions (my interpretation of the question)
 3. What field did you use?
 3. My Findings & meaning of numbers
-### TODO
-[ ] Finalize #3 strategy (1 mapper vs. Secondary Sorting on Reducer)
-[ ] Use 1 driver with extra argument to run multiple
+### TODO (in order)
+[ ] Finish #3 (choose one: 1 mapper or Secondary Sorting on Reducer)
 [ ] Finalize #5 Requirement question
+[ ] Finish #5 Requirement question
+[ ] Write All Tests
+[ ] Format output to show column at top
 [ ] Set `numReducerTasks(0)` for Mapper Only classes
+[ ] Use 1 driver with extra argument to run multiple
+[ ] Make presentation

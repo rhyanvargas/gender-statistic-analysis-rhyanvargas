@@ -16,7 +16,7 @@ public class PercentChangeMaleEmploymentMapper extends Mapper<LongWritable, Text
     public void map(LongWritable key, Text value, Context context) throws IOException, InterruptedException {
         String line = value.toString();
         int index = 0;
-        double percent;
+        double percent = 0.0;
         String country = "";
         boolean flag = false;
         ArrayList<String> countries = new ArrayList<String>(Arrays.asList("Afghanistan", "Albania", "Algeria",
@@ -59,9 +59,7 @@ public class PercentChangeMaleEmploymentMapper extends Mapper<LongWritable, Text
                 "Venezuela", "Vietnam", "Virgin Islands (British)", "Virgin Islands (U.S.)",
                 "Wallis and Futuna Islands", "Western Sahara", "Yemen", "Yugoslavia", "Zambia", "Zimbabwe"));
 
-        line =  line
-                .trim();
-        
+       
         /**
          * Fetch Male Employment From all countries
          */

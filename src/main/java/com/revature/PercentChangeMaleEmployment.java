@@ -39,7 +39,8 @@ public class PercentChangeMaleEmployment {
              * Specify mapper and reducer class
              */
             job.setMapperClass(PercentChangeMaleEmploymentMapper.class);
-            job.setReducerClass(PercentChangeMaleEmploymentReducer.class);
+            // job.setReducerClass(PercentChangeMaleEmploymentReducer.class);
+            job.setNumReduceTasks(0);
             /**
              * specify
              */
