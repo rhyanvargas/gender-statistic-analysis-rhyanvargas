@@ -1,9 +1,10 @@
 package com.revature.map;
+
 import java.io.IOException;
 import java.util.ArrayList;
 import java.util.Arrays;
 
-import org.apache.hadoop.io.DoubleWritable;
+import com.revature.helpers.FormatDecimal;
 import org.apache.hadoop.io.LongWritable;
 import org.apache.hadoop.io.Text;
 import org.apache.hadoop.mapreduce.Mapper;
@@ -12,13 +13,11 @@ import org.apache.hadoop.mapreduce.Mapper;
  * Contains logic of Mapper for Percent Change in Male employment from the year
  * 2000-2016
  */
-public class PercentChangeMaleEmploymentMapper extends Mapper<LongWritable, Text, Text, DoubleWritable> {
+public class PercentChangeMaleEmploymentMapper extends Mapper<LongWritable, Text, Text, Text> {
     public void map(LongWritable key, Text value, Context context) throws IOException, InterruptedException {
-        String line = value.toString();
+        String theKey = "", firstPercent = "", lastPercent = "", valueString = "", line = value.toString();
         int index = 0;
-        double percent = 0.0;
-        String country = "";
-        boolean flag = false;
+        double difference = 0.00;
         ArrayList<String> countries = new ArrayList<String>(Arrays.asList("Afghanistan", "Albania", "Algeria",
                 "American Samoa", "Andorra", "Angola", "Anguilla", "Antarctica", "Antigua and Barbuda", "Argentina",
                 "Armenia", "Aruba", "Australia", "Austria", "Azerbaijan", "Bahamas", "Bahrain", "Bangladesh",
@@ -59,33 +58,39 @@ public class PercentChangeMaleEmploymentMapper extends Mapper<LongWritable, Text
                 "Venezuela", "Vietnam", "Virgin Islands (British)", "Virgin Islands (U.S.)",
                 "Wallis and Futuna Islands", "Western Sahara", "Yemen", "Yugoslavia", "Zambia", "Zimbabwe"));
 
-       
-        /**
-         * Fetch Male Employment From all countries
-         */
         if (line.matches("(.*)SL.EMP.WORK.MA.ZS(.*)")) {
+            /**
+             * Fetch lines with data: Wage and salaried workers, male %
+             */
             for (String word : line.split(",")) {
-                word =  word
-                        .replace("\"", "")
-                        .trim();
-                if (index == 0) {
-                    /**
-                     * If the word is a country, set flag to true...
-                     */
-                    if (countries.contains(word) == true) {
-                        country = word;
-                        flag = true;
+                word = word.replace("\"", "").trim();
+                if (!word.equals("")) {
+                    if (countries.contains(word) && index == 0) {
+                        theKey = word;
                     }
-                }
-                if (index > 46 && !word.equals("") && flag == true ) {
-                    /**
-                     * Fetch percentages from year 2000 onwards
-                     */
-                    percent = Double.parseDouble(word);
-                    context.write(new Text(country), new DoubleWritable(percent));
+                    if (!theKey.equals("") && !word.equals("")) {
+                        if (index == 43) {
+                            firstPercent = word;
+                        }
+                        if (index > 43) {
+                            lastPercent = word;
+                        }
+                    }
                 }
                 index += 1;
             }
+            if (!theKey.equals("") && !firstPercent.equals("") && !lastPercent.equals("")) {
+                difference = Double.parseDouble(lastPercent) - Double.parseDouble(firstPercent);
+                if (difference > 0) {
+                    valueString = "Male % employment from year 2000 to 2016 INCREASED by: ";
+                }
+                if (difference < 0) {
+                    difference *= -1;
+                    valueString = "Male % employment from year 2000 to 2016 DECREASED by: ";
+                }
+                context.write(new Text(theKey + ": " + "-->"),
+                        new Text(String.valueOf(valueString + FormatDecimal.formatDecimal(difference))));
+            }
         }
-    }  
+    }
 }
