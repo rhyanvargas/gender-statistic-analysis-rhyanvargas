@@ -64,10 +64,8 @@ public class AverageIncreaseFemalesReducer extends Reducer<Text, DoubleWritable,
          * Calculate the Average Sum Percent increase
          */
         averageOfSums = sumOfPercentChanges / percentChangeArray.size();
-        /**
-         * Calculate the Average Sum Percent increase
-         */
+        
         averageOfSums = FormatDecimal.formatDecimal(averageOfSums);
-        context.write(key, new DoubleWritable(averageOfSums));
+        context.write(new Text(key+"(Average Sum Percent of the Gross graduation ratio of Females, that are less than 30%): "), new DoubleWritable(averageOfSums));
     }
 }

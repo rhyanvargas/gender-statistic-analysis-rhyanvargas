@@ -42,7 +42,7 @@ public class PercentChangeFemaleEmployment {
              * specify
              */
             job.setOutputKeyClass(Text.class);
-            job.setOutputValueClass(DoubleWritable.class);
+            job.setOutputValueClass(Text.class);
             /**
              * run and check
              */

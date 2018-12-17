@@ -7,9 +7,9 @@ You must find the answers through the development Map Reduce algorithms for the 
 	- [X]	Identify the countries where % of female graduates is less than 30%. 
 	- [X]	List the average increase in female education in the U.S. from the year 2000.
 	- [X]	List the % of change in male employment from the year 2000. 
-	- [ ]	List the % of change in female employment from the year 2000.
-	- [ ]	Additionally, based on your data exploration and analysis, evaluate one business factor that you consider important, and make this your own requirement.
-	- [ ] 	List the 
+	- [X]	List the % of change in female employment from the year 2000.
+	- [X]	Additionally, based on your data exploration and analysis, evaluate one business factor that you consider important, and make this your own requirement.
+	  - Does having outstanding school loans make it harder to save money for emergency fund(from 2000 onwards)? (Coming up with emergency funds: not at all possible, male / Outstanding loan to pay school fees, male)
 ### For each business question, there is the following architectural requirements:
 	- [ ]	There should be an MR Unit test for each Map, each Reduce and each Map-Reduce combination.
 	- [ ]	Data sets must be stored and processed within HDFS and a Hadoop Cluster.
@@ -43,18 +43,18 @@ You must find the answers through the development Map Reduce algorithms for the 
 - 
 ```
  for(DoubleWritable value : values){
-            if(index == 0) {
-                firstYearPercentage = value.get();
-            } else {
-				/**
-				* Will keep re-assigning variable until the end of
-				* the values list. the final assignment represents 
-				* the last percentage value we want.
-				*/
-                lastYearPercentage = value.get(); 
-            }
-            index += 1;
-        }
+		if(index == 0) {
+			firstYearPercentage = value.get();
+		} else {
+			/**
+			* Will keep re-assigning variable until the end of
+			* the values list. the final assignment represents 
+			* the last percentage value we want.
+			*/
+			lastYearPercentage = value.get(); 
+		}
+		index += 1;
+	}
 ```
 ### Process
 - I learned that it is really important to look at the data and figure out which variables you want to extract before coding your mapper
@@ -64,12 +64,3 @@ What strategy did I use?
 2. My Assumptions (my interpretation of the question)
 3. What field did you use?
 3. My Findings & meaning of numbers
-### TODO (in order)
-[ ] Finish #3 (choose one: 1 mapper or Secondary Sorting on Reducer)
-[ ] Finalize #5 Requirement question
-[ ] Finish #5 Requirement question
-[ ] Write All Tests
-[ ] Format output to show column at top
-[ ] Set `numReducerTasks(0)` for Mapper Only classes
-[ ] Use 1 driver with extra argument to run multiple
-[ ] Make presentation

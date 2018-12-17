@@ -31,7 +31,6 @@ public class FemaleGradsMapper extends Mapper<LongWritable, Text, Text, DoubleWr
                     }
                 }
                 else if (index > 57 && !word.equals("") && flag == true){
-                    // Double check if 55 is between 2010 - 2016 (6 years of info )
                     percent = Double.parseDouble(word);
                     context.write(new Text(country), new DoubleWritable(percent));
                 }

@@ -1,6 +1,6 @@
 package com.revature;
 import com.revature.map.PercentChangeMaleEmploymentMapper;
-import org.apache.hadoop.fs.FileSystem;
+// import org.apache.hadoop.fs.FileSystem;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.DoubleWritable;
 import org.apache.hadoop.io.Text;
@@ -27,7 +27,6 @@ public class PercentChangeMaleEmployment {
              * The class that contains the main() method
              */
             job.setJarByClass(PercentChangeMaleEmployment.class);
-
             job.setJobName("Percent Change of Male Employment");
             /**
              * Set input and output paths
@@ -42,7 +41,7 @@ public class PercentChangeMaleEmployment {
              * specify
              */
             job.setOutputKeyClass(Text.class);
-            job.setOutputValueClass(DoubleWritable.class);
+            job.setOutputValueClass(Text.class);
             /**
              * run and check
              */

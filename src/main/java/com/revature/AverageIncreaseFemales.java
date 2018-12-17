@@ -13,6 +13,7 @@ import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
 /**
  * Average Increase of Female Education from Year 2000
  *
+ * 
  */
 public class AverageIncreaseFemales {
 

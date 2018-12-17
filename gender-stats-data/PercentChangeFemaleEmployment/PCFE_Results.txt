@@ -1,0 +1,65 @@
+Argentina: -->	Female % employment from year 2000 to 2016 INCREASED by: 4.35
+Australia: -->	Female % employment from year 2000 to 2016 INCREASED by: 2.29
+Austria: -->	Female % employment from year 2000 to 2016 INCREASED by: 2.72
+Barbados: -->	Female % employment from year 2000 to 2016 DECREASED by: 2.15
+Belgium: -->	Female % employment from year 2000 to 2016 INCREASED by: 3.93
+Belize: -->	Female % employment from year 2000 to 2016 INCREASED by: 6.05
+Botswana: -->	Female % employment from year 2000 to 2016 DECREASED by: 6.15
+Canada: -->	Female % employment from year 2000 to 2016 INCREASED by: 1.58
+Chile: -->	Female % employment from year 2000 to 2016 DECREASED by: 7.63
+Colombia: -->	Female % employment from year 2000 to 2016 DECREASED by: 16.93
+Costa Rica: -->	Female % employment from year 2000 to 2016 INCREASED by: 4.97
+Cuba: -->	Female % employment from year 2000 to 2016 DECREASED by: 13.96
+Czech Republic: -->	Female % employment from year 2000 to 2016 DECREASED by: 3.77
+Denmark: -->	Female % employment from year 2000 to 2016 INCREASED by: 0.39
+Dominican Republic: -->	Female % employment from year 2000 to 2016 INCREASED by: 5.78
+Ecuador: -->	Female % employment from year 2000 to 2016 INCREASED by: 5.52
+Egypt: -->	Female % employment from year 2000 to 2016 DECREASED by: 3.93
+El Salvador: -->	Female % employment from year 2000 to 2016 DECREASED by: 12.11
+Estonia: -->	Female % employment from year 2000 to 2016 DECREASED by: 0.37
+Finland: -->	Female % employment from year 2000 to 2016 DECREASED by: 0.61
+France: -->	Female % employment from year 2000 to 2016 INCREASED by: 0.78
+Georgia: -->	Female % employment from year 2000 to 2016 DECREASED by: 1.68
+Germany: -->	Female % employment from year 2000 to 2016 INCREASED by: 0.41
+Greece: -->	Female % employment from year 2000 to 2016 INCREASED by: 11.69
+Honduras: -->	Female % employment from year 2000 to 2016 DECREASED by: 5.43
+Hungary: -->	Female % employment from year 2000 to 2016 INCREASED by: 3.51
+Iceland: -->	Female % employment from year 2000 to 2016 INCREASED by: 4.01
+Ireland: -->	Female % employment from year 2000 to 2016 INCREASED by: 1.43
+Israel: -->	Female % employment from year 2000 to 2016 INCREASED by: 0.29
+Italy: -->	Female % employment from year 2000 to 2016 INCREASED by: 4.44
+Jamaica: -->	Female % employment from year 2000 to 2016 INCREASED by: 1.06
+Japan: -->	Female % employment from year 2000 to 2016 INCREASED by: 10.39
+Latvia: -->	Female % employment from year 2000 to 2016 INCREASED by: 6.71
+Lithuania: -->	Female % employment from year 2000 to 2016 INCREASED by: 6.78
+Luxembourg: -->	Female % employment from year 2000 to 2016 DECREASED by: 2.1
+Malaysia: -->	Female % employment from year 2000 to 2016 DECREASED by: 1.99
+Mexico: -->	Female % employment from year 2000 to 2016 INCREASED by: 5.99
+Netherlands: -->	Female % employment from year 2000 to 2016 DECREASED by: 3.72
+New Zealand: -->	Female % employment from year 2000 to 2016 DECREASED by: 0.27
+Norway: -->	Female % employment from year 2000 to 2016 INCREASED by: 0.84
+Pakistan: -->	Female % employment from year 2000 to 2016 DECREASED by: 2.77
+Panama: -->	Female % employment from year 2000 to 2016 DECREASED by: 6.61
+Peru: -->	Female % employment from year 2000 to 2016 INCREASED by: 3.15
+Philippines: -->	Female % employment from year 2000 to 2016 INCREASED by: 7.66
+Poland: -->	Female % employment from year 2000 to 2016 INCREASED by: 7.75
+Portugal: -->	Female % employment from year 2000 to 2016 INCREASED by: 14.43
+Puerto Rico: -->	Female % employment from year 2000 to 2016 DECREASED by: 0.21
+Romania: -->	Female % employment from year 2000 to 2016 INCREASED by: 18.45
+Russian Federation: -->	Female % employment from year 2000 to 2016 DECREASED by: 2.55
+San Marino: -->	Female % employment from year 2000 to 2016 INCREASED by: 8.18
+Singapore: -->	Female % employment from year 2000 to 2016 DECREASED by: 0.92
+Slovenia: -->	Female % employment from year 2000 to 2016 INCREASED by: 2.58
+Spain: -->	Female % employment from year 2000 to 2016 INCREASED by: 7.2
+Sri Lanka: -->	Female % employment from year 2000 to 2016 DECREASED by: 0.46
+Suriname: -->	Female % employment from year 2000 to 2016 DECREASED by: 85.18
+Sweden: -->	Female % employment from year 2000 to 2016 INCREASED by: 0.39
+Switzerland: -->	Female % employment from year 2000 to 2016 INCREASED by: 3.4
+Thailand: -->	Female % employment from year 2000 to 2016 INCREASED by: 9.9
+Trinidad and Tobago: -->	Female % employment from year 2000 to 2016 INCREASED by: 4.17
+Turkey: -->	Female % employment from year 2000 to 2016 INCREASED by: 30.98
+Ukraine: -->	Female % employment from year 2000 to 2016 INCREASED by: 6.01
+United Kingdom: -->	Female % employment from year 2000 to 2016 DECREASED by: 2.74
+United States: -->	Female % employment from year 2000 to 2016 INCREASED by: 1.24
+Venezuela: -->	Female % employment from year 2000 to 2016 DECREASED by: 2.22
+Vietnam: -->	Female % employment from year 2000 to 2016 INCREASED by: 16.47

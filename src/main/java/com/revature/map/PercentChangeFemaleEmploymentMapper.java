@@ -82,11 +82,11 @@ public class PercentChangeFemaleEmploymentMapper extends Mapper<LongWritable, Te
             if (!theKey.equals("") && !firstPercent.equals("") && !lastPercent.equals("")) {
                 difference = Double.parseDouble(lastPercent) - Double.parseDouble(firstPercent);
                 if (difference > 0) {
-                    valueString = "Male % employment from year 2000 to 2016 INCREASED by: ";
+                    valueString = "Female % employment from year 2000 to 2016 INCREASED by: ";
                 }
                 if (difference < 0) {
                     difference *= -1;
-                    valueString = "Male % employment from year 2000 to 2016 DECREASED by: ";
+                    valueString = "Female % employment from year 2000 to 2016 DECREASED by: ";
                 }
                 context.write(new Text(theKey + ": " + "-->"),
                         new Text(String.valueOf(valueString + FormatDecimal.formatDecimal(difference))));

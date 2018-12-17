@@ -6,6 +6,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "CodeLens (Launch) - CorrelationLoanEmergencyFunds",
+            "request": "launch",
+            "mainClass": "com.revature.CorrelationLoanEmergencyFunds",
+            "projectName": "WordCountCombiner0.1"
+        },
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - PercentChangeFemaleEmployment",
+            "request": "launch",
+            "mainClass": "com.revature.PercentChangeFemaleEmployment",
+            "projectName": "WordCountCombiner0.1"
+        },
+        {
+            "type": "java",
             "name": "CodeLens (Launch) - FemaleGradsReducer",
             "request": "launch",
             "cwd": "${workspaceFolder}",
@@ -57,17 +71,6 @@
             "stopOnEntry": false,
             "mainClass": "",
             "args": "/Users/rhyanvargas/Revature/gender-statistic-analysis-rhyanvargas/gender-stats-data/Gender_StatsData.csv /Users/rhyanvargas/Revature/gender-statistic-analysis-rhyanvargas/gender-stats-data/output"
-        },
-        {
-            "type": "java",
-            "name": "Debug (Launch)-GenderStatisticsAnalysis<WordCountCombiner0.1>",
-            "request": "launch",
-            "cwd": "${workspaceFolder}",
-            "console": "internalConsole",
-            "stopOnEntry": false,
-            "mainClass": "com.revature.GenderStatisticsAnalysis",
-            "args": "",
-            "projectName": "WordCountCombiner0.1"
         },
         {
             "type": "java",

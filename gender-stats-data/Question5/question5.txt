@@ -1,0 +1,285 @@
+Afghanistan(Coming up with emergency funds: not at all possible)	24.07584
+Afghanistan(Outstanding loan to pay school fees)	1.053368
+Albania(Coming up with emergency funds: not at all possible)	25.0153
+Albania(Outstanding loan to pay school fees)	1.800703
+Algeria(Coming up with emergency funds: not at all possible)	12.54445
+Algeria(Outstanding loan to pay school fees)	1.692077
+Angola(Coming up with emergency funds: not at all possible)	48.28274
+Angola(Outstanding loan to pay school fees)	17.75382
+Argentina(Coming up with emergency funds: not at all possible)	20.705
+Argentina(Outstanding loan to pay school fees)	1.060337
+Armenia(Coming up with emergency funds: not at all possible)	27.14417
+Armenia(Outstanding loan to pay school fees)	3.617353
+Australia(Coming up with emergency funds: not at all possible)	9.35993
+Austria(Coming up with emergency funds: not at all possible)	12.97444
+Azerbaijan(Coming up with emergency funds: not at all possible)	5.841372
+Azerbaijan(Outstanding loan to pay school fees)	5.520035
+Bahrain(Coming up with emergency funds: not at all possible)	22.00568
+Bahrain(Outstanding loan to pay school fees)	17.66955
+Bangladesh(Coming up with emergency funds: not at all possible)	22.23637
+Bangladesh(Outstanding loan to pay school fees)	1.836223
+Belarus(Coming up with emergency funds: not at all possible)	10.16238
+Belarus(Outstanding loan to pay school fees)	2.396554
+Belgium(Coming up with emergency funds: not at all possible)	19.38363
+Belize(Coming up with emergency funds: not at all possible)	14.69206
+Benin(Coming up with emergency funds: not at all possible)	24.81008
+Benin(Outstanding loan to pay school fees)	9.570514
+Bhutan(Coming up with emergency funds: not at all possible)	4.040939
+Bolivia(Coming up with emergency funds: not at all possible)	9.651765
+Bolivia(Outstanding loan to pay school fees)	6.503865
+Bosnia and Herzegovina(Coming up with emergency funds: not at all possible)	10.36697
+Bosnia and Herzegovina(Outstanding loan to pay school fees)	3.209867
+Botswana(Coming up with emergency funds: not at all possible)	19.00092
+Botswana(Outstanding loan to pay school fees)	2.631569
+Brazil(Coming up with emergency funds: not at all possible)	39.79021
+Brazil(Outstanding loan to pay school fees)	2.140224
+Bulgaria(Coming up with emergency funds: not at all possible)	15.57807
+Bulgaria(Outstanding loan to pay school fees)	0.9149504
+Burkina Faso(Coming up with emergency funds: not at all possible)	14.5244
+Burkina Faso(Outstanding loan to pay school fees)	15.1945
+Burundi(Coming up with emergency funds: not at all possible)	26.92944
+Burundi(Outstanding loan to pay school fees)	10.04072
+Cambodia(Coming up with emergency funds: not at all possible)	13.26077
+Cambodia(Outstanding loan to pay school fees)	4.699887
+Cameroon(Coming up with emergency funds: not at all possible)	15.74727
+Cameroon(Outstanding loan to pay school fees)	14.349
+Canada(Coming up with emergency funds: not at all possible)	5.385824
+Central African Republic(Outstanding loan to pay school fees)	7.282437
+Chad(Coming up with emergency funds: not at all possible)	22.28662
+Chad(Outstanding loan to pay school fees)	10.84729
+Chile(Coming up with emergency funds: not at all possible)	31.46603
+Chile(Outstanding loan to pay school fees)	3.331087
+China(Coming up with emergency funds: not at all possible)	13.30299
+China(Outstanding loan to pay school fees)	3.17974
+Colombia(Coming up with emergency funds: not at all possible)	24.26392
+Colombia(Outstanding loan to pay school fees)	5.987475
+Comoros(Outstanding loan to pay school fees)	10.93741
+Congo(COD)	19.84989
+Congo(COD)	7.814477
+Congo(COG)	27.64421
+Congo(COG)	9.505938
+Costa Rica(Coming up with emergency funds: not at all possible)	29.86047
+Costa Rica(Outstanding loan to pay school fees)	2.173843
+Cote d'Ivoire(Coming up with emergency funds: not at all possible)	17.18014
+Croatia(Coming up with emergency funds: not at all possible)	29.87086
+Croatia(Outstanding loan to pay school fees)	2.318743
+Cyprus(Coming up with emergency funds: not at all possible)	18.47621
+Czech Republic(Coming up with emergency funds: not at all possible)	15.47047
+Czech Republic(Outstanding loan to pay school fees)	0.4874516
+Denmark(Coming up with emergency funds: not at all possible)	7.108275
+Djibouti(Outstanding loan to pay school fees)	6.675417
+Dominican Republic(Coming up with emergency funds: not at all possible)	19.09697
+Dominican Republic(Outstanding loan to pay school fees)	8.27441
+East Asia & Pacific (excluding high income)(Coming up with emergency funds: not at all possible)	15.59838
+East Asia & Pacific (excluding high income)(Outstanding loan to pay school fees)	5.531499
+Ecuador(Coming up with emergency funds: not at all possible)	35.60667
+Ecuador(Outstanding loan to pay school fees)	5.535693
+Egypt(EGY)	36.46817
+Egypt(EGY)	5.24847
+El Salvador(Coming up with emergency funds: not at all possible)	19.94199
+El Salvador(Outstanding loan to pay school fees)	4.378544
+Estonia(Coming up with emergency funds: not at all possible)	18.22517
+Estonia(Outstanding loan to pay school fees)	4.510994
+Ethiopia(Coming up with emergency funds: not at all possible)	21.26082
+Euro area(Coming up with emergency funds: not at all possible)	13.14343
+Euro area(Outstanding loan to pay school fees)	2.02216
+Europe & Central Asia (excluding high income)(Coming up with emergency funds: not at all possible)	22.01176
+Europe & Central Asia (excluding high income)(Outstanding loan to pay school fees)	2.484357
+Finland(Coming up with emergency funds: not at all possible)	9.084466
+France(Coming up with emergency funds: not at all possible)	13.38019
+Gabon(Coming up with emergency funds: not at all possible)	25.99776
+Gabon(Outstanding loan to pay school fees)	8.264434
+Georgia(Coming up with emergency funds: not at all possible)	26.17917
+Georgia(Outstanding loan to pay school fees)	0.5040554
+Germany(Coming up with emergency funds: not at all possible)	8.546725
+Ghana(Coming up with emergency funds: not at all possible)	30.0829
+Ghana(Outstanding loan to pay school fees)	7.775805
+Greece(Coming up with emergency funds: not at all possible)	32.97782
+Greece(Outstanding loan to pay school fees)	2.232474
+Guatemala(Coming up with emergency funds: not at all possible)	28.77174
+Guatemala(Outstanding loan to pay school fees)	4.021235
+Guinea(Coming up with emergency funds: not at all possible)	28.90129
+Guinea(Outstanding loan to pay school fees)	9.925979
+Haiti(Coming up with emergency funds: not at all possible)	23.45648
+Haiti(Outstanding loan to pay school fees)	26.18734
+High income(Coming up with emergency funds: not at all possible)	13.77496
+High income(Outstanding loan to pay school fees)	1.418092
+Honduras(Coming up with emergency funds: not at all possible)	26.39248
+Honduras(Outstanding loan to pay school fees)	3.387557
+Hong Kong SAR(HKG)	10.60054
+Hungary(Coming up with emergency funds: not at all possible)	26.9298
+Hungary(Outstanding loan to pay school fees)	0.3614788
+India(Coming up with emergency funds: not at all possible)	24.07137
+India(Outstanding loan to pay school fees)	5.121811
+Indonesia(Coming up with emergency funds: not at all possible)	23.46486
+Indonesia(Outstanding loan to pay school fees)	10.83923
+Iran(IRN)	40.91538
+Iraq(Coming up with emergency funds: not at all possible)	35.63639
+Iraq(Outstanding loan to pay school fees)	15.00447
+Ireland(Coming up with emergency funds: not at all possible)	8.505749
+Israel(Coming up with emergency funds: not at all possible)	1.892782
+Israel(Outstanding loan to pay school fees)	9.867579
+Italy(Coming up with emergency funds: not at all possible)	12.46965
+Jamaica(Coming up with emergency funds: not at all possible)	17.55936
+Jamaica(Outstanding loan to pay school fees)	2.957383
+Japan(Coming up with emergency funds: not at all possible)	8.21184
+Jordan(Coming up with emergency funds: not at all possible)	40.40127
+Jordan(Outstanding loan to pay school fees)	5.1924
+Kazakhstan(Coming up with emergency funds: not at all possible)	18.84742
+Kazakhstan(Outstanding loan to pay school fees)	3.118236
+Kenya(Coming up with emergency funds: not at all possible)	17.76505
+Kenya(Outstanding loan to pay school fees)	10.75473
+Korea(KOR)	6.718826
+Kosovo(Coming up with emergency funds: not at all possible)	17.51219
+Kosovo(Outstanding loan to pay school fees)	1.357367
+Kuwait(Coming up with emergency funds: not at all possible)	33.56253
+Kuwait(Outstanding loan to pay school fees)	19.93135
+Kyrgyz Republic(Coming up with emergency funds: not at all possible)	6.16561
+Kyrgyz Republic(Outstanding loan to pay school fees)	0.9594722
+Lao PDR(Outstanding loan to pay school fees)	8.220286
+Latin America & Caribbean (excluding high income)(Coming up with emergency funds: not at all possible)	28.11403
+Latin America & Caribbean (excluding high income)(Outstanding loan to pay school fees)	5.518323
+Latvia(Coming up with emergency funds: not at all possible)	13.14648
+Latvia(Outstanding loan to pay school fees)	1.610416
+Lebanon(Coming up with emergency funds: not at all possible)	15.28956
+Lebanon(Outstanding loan to pay school fees)	12.524
+Lesotho(Outstanding loan to pay school fees)	11.27023
+Liberia(Outstanding loan to pay school fees)	13.23819
+Lithuania(Coming up with emergency funds: not at all possible)	22.92041
+Lithuania(Outstanding loan to pay school fees)	0.9562476
+Low & middle income(Coming up with emergency funds: not at all possible)	20.78605
+Low & middle income(Outstanding loan to pay school fees)	5.521115
+Low income(Coming up with emergency funds: not at all possible)	20.39488
+Low income(Outstanding loan to pay school fees)	7.471443
+Lower middle income(Coming up with emergency funds: not at all possible)	23.23764
+Lower middle income(Outstanding loan to pay school fees)	6.496171
+Luxembourg(Coming up with emergency funds: not at all possible)	15.63444
+Macedonia(MKD)	6.538171
+Macedonia(MKD)	16.38889
+Madagascar(Coming up with emergency funds: not at all possible)	53.51007
+Madagascar(Outstanding loan to pay school fees)	3.298471
+Malawi(Coming up with emergency funds: not at all possible)	20.50512
+Malawi(Outstanding loan to pay school fees)	8.73975
+Malaysia(Coming up with emergency funds: not at all possible)	20.87271
+Malaysia(Outstanding loan to pay school fees)	6.713999
+Mali(Coming up with emergency funds: not at all possible)	11.71921
+Mali(Outstanding loan to pay school fees)	9.386602
+Malta(Coming up with emergency funds: not at all possible)	10.20121
+Mauritania(Coming up with emergency funds: not at all possible)	19.95441
+Mauritania(Outstanding loan to pay school fees)	15.00498
+Mauritius(Coming up with emergency funds: not at all possible)	36.42501
+Mauritius(Outstanding loan to pay school fees)	3.957264
+Mexico(Coming up with emergency funds: not at all possible)	20.19805
+Mexico(Outstanding loan to pay school fees)	11.08927
+Middle income(Coming up with emergency funds: not at all possible)	20.83569
+Middle income(Outstanding loan to pay school fees)	5.326245
+Moldova(Coming up with emergency funds: not at all possible)	8.86575
+Moldova(Outstanding loan to pay school fees)	4.146844
+Mongolia(Coming up with emergency funds: not at all possible)	9.391557
+Mongolia(Outstanding loan to pay school fees)	7.507957
+Montenegro(Coming up with emergency funds: not at all possible)	13.79065
+Montenegro(Outstanding loan to pay school fees)	7.619394
+Morocco(Outstanding loan to pay school fees)	4.208708
+Myanmar(Coming up with emergency funds: not at all possible)	6.374521
+Namibia(Coming up with emergency funds: not at all possible)	52.31747
+Nepal(Coming up with emergency funds: not at all possible)	15.07975
+Nepal(Outstanding loan to pay school fees)	13.6899
+Netherlands(Coming up with emergency funds: not at all possible)	15.73746
+New Zealand(Coming up with emergency funds: not at all possible)	5.385516
+Nicaragua(Coming up with emergency funds: not at all possible)	21.7583
+Nicaragua(Outstanding loan to pay school fees)	2.075209
+Niger(Coming up with emergency funds: not at all possible)	9.357193
+Niger(Outstanding loan to pay school fees)	4.769843
+Nigeria(Coming up with emergency funds: not at all possible)	12.55456
+Nigeria(Outstanding loan to pay school fees)	4.531015
+Norway(Coming up with emergency funds: not at all possible)	6.967653
+Pakistan(Coming up with emergency funds: not at all possible)	24.82977
+Pakistan(Outstanding loan to pay school fees)	2.679217
+Panama(Coming up with emergency funds: not at all possible)	19.64107
+Panama(Outstanding loan to pay school fees)	13.96845
+Paraguay(Outstanding loan to pay school fees)	10.74033
+Peru(Coming up with emergency funds: not at all possible)	19.27937
+Peru(Outstanding loan to pay school fees)	6.927707
+Philippines(Coming up with emergency funds: not at all possible)	31.27845
+Philippines(Outstanding loan to pay school fees)	21.2644
+Poland(Coming up with emergency funds: not at all possible)	9.363723
+Poland(Outstanding loan to pay school fees)	0.4327507
+Portugal(Coming up with emergency funds: not at all possible)	33.48854
+Puerto Rico(Coming up with emergency funds: not at all possible)	29.56057
+Romania(Coming up with emergency funds: not at all possible)	26.76649
+Romania(Outstanding loan to pay school fees)	1.127574
+Russian Federation(Coming up with emergency funds: not at all possible)	12.9878
+Russian Federation(Outstanding loan to pay school fees)	0.7537034
+Rwanda(Coming up with emergency funds: not at all possible)	18.67894
+Rwanda(Outstanding loan to pay school fees)	9.744193
+Saudi Arabia(Coming up with emergency funds: not at all possible)	30.5713
+Saudi Arabia(Outstanding loan to pay school fees)	7.303163
+Senegal(Coming up with emergency funds: not at all possible)	18.63837
+Senegal(Outstanding loan to pay school fees)	2.320004
+Serbia(Coming up with emergency funds: not at all possible)	21.6763
+Serbia(Outstanding loan to pay school fees)	1.598876
+Sierra Leone(Coming up with emergency funds: not at all possible)	42.10814
+Sierra Leone(Outstanding loan to pay school fees)	8.925276
+Singapore(Coming up with emergency funds: not at all possible)	8.625365
+Singapore(Outstanding loan to pay school fees)	7.536153
+Slovak Republic(Coming up with emergency funds: not at all possible)	18.81067
+Slovak Republic(Outstanding loan to pay school fees)	1.147304
+Slovenia(Coming up with emergency funds: not at all possible)	16.15809
+Somalia(Coming up with emergency funds: not at all possible)	21.1623
+South Africa(Coming up with emergency funds: not at all possible)	37.84973
+South Africa(Outstanding loan to pay school fees)	6.708846
+South Asia(Coming up with emergency funds: not at all possible)	23.97765
+South Asia(Outstanding loan to pay school fees)	4.599052
+Spain(Coming up with emergency funds: not at all possible)	10.28566
+Sri Lanka(Coming up with emergency funds: not at all possible)	35.36468
+Sri Lanka(Outstanding loan to pay school fees)	2.334024
+Sub-Saharan Africa (excluding high income)(Coming up with emergency funds: not at all possible)	21.73878
+Sub-Saharan Africa (excluding high income)(Outstanding loan to pay school fees)	9.421806
+Sudan(Coming up with emergency funds: not at all possible)	12.00834
+Sudan(Outstanding loan to pay school fees)	26.56042
+Swaziland(Outstanding loan to pay school fees)	15.79679
+Sweden(Coming up with emergency funds: not at all possible)	12.72712
+Switzerland(Coming up with emergency funds: not at all possible)	9.909446
+Syrian Arab Republic(Outstanding loan to pay school fees)	3.218768
+Tajikistan(Coming up with emergency funds: not at all possible)	14.27218
+Tajikistan(Outstanding loan to pay school fees)	5.230717
+Tanzania(Coming up with emergency funds: not at all possible)	22.82303
+Tanzania(Outstanding loan to pay school fees)	13.18243
+Thailand(Coming up with emergency funds: not at all possible)	27.64018
+Thailand(Outstanding loan to pay school fees)	12.08702
+Togo(Coming up with emergency funds: not at all possible)	42.20404
+Togo(Outstanding loan to pay school fees)	13.35611
+Trinidad and Tobago(Outstanding loan to pay school fees)	3.186515
+Tunisia(Coming up with emergency funds: not at all possible)	33.22199
+Turkey(Coming up with emergency funds: not at all possible)	42.90575
+Turkey(Outstanding loan to pay school fees)	4.435938
+Turkmenistan(Coming up with emergency funds: not at all possible)	3.595113
+Turkmenistan(Outstanding loan to pay school fees)	0.5611544
+Uganda(Coming up with emergency funds: not at all possible)	14.46085
+Uganda(Outstanding loan to pay school fees)	11.5208
+Ukraine(Coming up with emergency funds: not at all possible)	9.162081
+Ukraine(Outstanding loan to pay school fees)	1.05136
+United Arab Emirates(Coming up with emergency funds: not at all possible)	16.68696
+United Arab Emirates(Outstanding loan to pay school fees)	21.38902
+United Kingdom(Coming up with emergency funds: not at all possible)	10.65861
+United States(Coming up with emergency funds: not at all possible)	19.25942
+Upper middle income(Coming up with emergency funds: not at all possible)	18.73342
+Upper middle income(Outstanding loan to pay school fees)	4.196249
+Uruguay(Coming up with emergency funds: not at all possible)	16.86765
+Uruguay(Outstanding loan to pay school fees)	0.5331479
+Uzbekistan(Coming up with emergency funds: not at all possible)	6.610403
+Uzbekistan(Outstanding loan to pay school fees)	0.4639813
+Venezuela(VEN)	15.14253
+Venezuela(VEN)	3.673832
+Vietnam(Coming up with emergency funds: not at all possible)	18.40519
+Vietnam(Outstanding loan to pay school fees)	11.68189
+West Bank and Gaza(Coming up with emergency funds: not at all possible)	32.93402
+West Bank and Gaza(Outstanding loan to pay school fees)	22.95336
+World(Coming up with emergency funds: not at all possible)	19.41013
+World(Outstanding loan to pay school fees)	5.318416
+Yemen(YEM)	35.02451
+Yemen(YEM)	1.836373
+Zambia(Coming up with emergency funds: not at all possible)	38.25422
+Zambia(Outstanding loan to pay school fees)	2.736416
+Zimbabwe(Coming up with emergency funds: not at all possible)	25.56767
+Zimbabwe(Outstanding loan to pay school fees)	9.91265

@@ -1,0 +1,90 @@
+Albania	0.0
+Algeria	20.14
+Antigua and Barbuda	0.531
+Argentina	6.941
+Armenia	0.0
+Aruba	6.198
+Australia	28.553
+Austria	22.34
+Azerbaijan	7.844
+Bangladesh	1.054
+Belarus	25.404
+Belgium	21.702
+Belize	4.335
+Brazil	5.765
+Brunei Darussalam	3.079
+Bulgaria	26.29
+Burundi	0.736
+Chile	7.705
+China	11.88
+Colombia	13.998
+Costa Rica	20.895
+Cuba	0.0
+Cyprus	14.796
+Czech Republic	29.902
+Denmark	0.0
+Dominican Republic	8.297
+Ecuador	9.377
+Egypt	4.306
+El Salvador	6.66
+Eritrea	0.104
+Estonia	19.992
+Finland	0.0
+France	24.475
+Gambia	0.035
+Georgia	9.192
+Germany	13.0
+Ghana	2.457
+Greece	5.98
+Grenada	10.58
+Guinea	0.765
+Guyana	0.623
+Honduras	6.3
+Hungary	18.975
+Iceland	13.689
+India	10.082
+Indonesia	2.43
+Israel	26.298
+Italy	22.87
+Japan	21.001
+Kazakhstan	0.0
+Kuwait	2.907
+Latvia	27.609
+Lesotho	1.842
+Liechtenstein	6.059
+Lithuania	0.0
+Luxembourg	5.475
+Madagascar	0.773
+Malaysia	10.903
+Malta	20.515
+Mauritania	0.874
+Mexico	3.694
+Mongolia	0.0
+Nepal	1.515
+Netherlands	27.41
+New Zealand	0.0
+Norway	29.682
+Panama	10.502
+Poland	0.0
+Portugal	29.132
+Qatar	9.261
+Romania	17.9
+Russian Federation	12.704
+Rwanda	0.341
+Saudi Arabia	18.109
+Seychelles	5.759
+Slovenia	0.0
+South Africa	4.621
+Spain	24.287
+Sri Lanka	4.704
+Sudan	1.863
+Swaziland	1.084
+Sweden	7.444
+Switzerland	16.443
+Thailand	9.663
+Tunisia	16.615
+Turkey	9.865
+United Kingdom	27.731
+United States	7.947
+Vietnam	9.014
+Zimbabwe	0.166
