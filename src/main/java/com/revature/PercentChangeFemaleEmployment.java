@@ -1,24 +1,24 @@
 package com.revature;
-import com.revature.map.PercentChangeMaleEmploymentMapper;
-import org.apache.hadoop.fs.FileSystem;
+
+import com.revature.map.PercentChangeFemaleEmploymentMapper;
 import org.apache.hadoop.fs.Path;
 import org.apache.hadoop.io.DoubleWritable;
 import org.apache.hadoop.io.Text;
-    
+
 import org.apache.hadoop.mapreduce.Job;
 import org.apache.hadoop.mapreduce.lib.input.FileInputFormat;
 import org.apache.hadoop.mapreduce.lib.output.FileOutputFormat;
+
 /**
- * PercentChangeMaleEmployment
+ * PercentChangeFemaleEmployment
  */
-public class PercentChangeMaleEmployment {
+public class PercentChangeFemaleEmployment {
 
     public static void main(String[] args) throws Exception {
         if (args.length != 2) {
-            System.out.println("Usage: PercentChangeMaleEmployment <input_dir> <output_dir>");
+            System.out.println("Usage: PercentChangeFemaleEmployment <input_dir> <output_dir>");
             System.exit(-1);
-        }
-        else {
+        } else {
             /**
              * The MMpReduce object
              */
@@ -26,9 +26,9 @@ public class PercentChangeMaleEmployment {
             /**
              * The class that contains the main() method
              */
-            job.setJarByClass(PercentChangeMaleEmployment.class);
+            job.setJarByClass(PercentChangeFemaleEmployment.class);
 
-            job.setJobName("Percent Change of Male Employment");
+            job.setJobName("Percent Change of Female Employment");
             /**
              * Set input and output paths
              */
@@ -37,7 +37,7 @@ public class PercentChangeMaleEmployment {
             /**
              * Specify mapper and reducer class
              */
-            job.setMapperClass(PercentChangeMaleEmploymentMapper.class);
+            job.setMapperClass(PercentChangeFemaleEmploymentMapper.class);
             /**
              * specify
              */
